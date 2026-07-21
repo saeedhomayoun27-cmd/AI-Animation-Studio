@@ -1,0 +1,13 @@
+{
+  "project_name": "AI-Animation-Studio",
+  "version": "0.1",
+  "language": "fa",
+  "default_interface": "ComfyUI",
+  "folders": {
+    "models": "../models",
+    "loras": "../loras",
+    "controlnets": "../controlnets",
+    "workflows": "../workflows",
+    "outputs": "../outputs"
+  }
+}
